@@ -1,0 +1,52 @@
+{
+    "eng": [
+        "data/songs/Blowin In The Wind - Bob Dylan.mp3",
+        "data/songs/Dreams - Fleetwood Mac.mp3",
+        "data/songs/Nights - Frank Ocean.mp3",
+        "data/songs/Lover, You Should've Come Over - Jeff Buckley.mp3",
+        "data/songs/Wish You Were Here - Pink Floyd.mp3",
+        "data/songs/15 Step - Radiohead.mp3",
+        "data/songs/Fake Plastic Trees - Radiohead.mp3",
+        "data/songs/Jigsaw Falling Into Place - Radiohead.mp3",
+        "data/songs/Karma Police - Radiohead.mp3",
+        "data/songs/Motion Picture Soundtrack - Radiohead.mp3",
+        "data/songs/No Surprises - Radiohead.mp3",
+        "data/songs/Paranoid Android - Radiohead.mp3",
+        "data/songs/Weird Fishes : Arpeggi - Radiohead.mp3",
+        "data/songs/Broken Clocks - SZA.mp3",
+        "data/songs/Across The Universe - The Beatles.mp3",
+        "data/songs/And I Love Her - The Beatles.mp3",
+        "data/songs/Get Back - The Beatles.mp3",
+        "data/songs/In My Life - The Beatles.mp3",
+        "data/songs/While My Guitar Gently Weeps - The Beatles.mp3",
+        "data/songs/Days Before Rodeo: The Prayer - Travis Scott.mp3"
+    ],
+    "chi": [
+        "data/songs/Sun and Earth - Crowd Lu.mp3",
+        "data/songs/Won't Cry - Jay Chou.mp3",
+        "data/songs/Nothing To Say - Khalil Fong.mp3"
+    ],
+    "Beatles": [
+        "data/songs/Across The Universe - The Beatles.mp3",
+        "data/songs/And I Love Her - The Beatles.mp3",
+        "data/songs/In My Life - The Beatles.mp3",
+        "data/songs/While My Guitar Gently Weeps - The Beatles.mp3"
+    ],
+    "Radiohead": [
+        "data/songs/15 Step - Radiohead.mp3",
+        "data/songs/Fake Plastic Trees - Radiohead.mp3",
+        "data/songs/Jigsaw Falling Into Place - Radiohead.mp3",
+        "data/songs/Karma Police - Radiohead.mp3",
+        "data/songs/Motion Picture Soundtrack - Radiohead.mp3",
+        "data/songs/No Surprises - Radiohead.mp3",
+        "data/songs/Paranoid Android - Radiohead.mp3",
+        "data/songs/Weird Fishes : Arpeggi - Radiohead.mp3"
+    ],
+    "ggg": [
+        "data/songs/Wish You Were Here - Pink Floyd.mp3",
+        "data/songs/Jigsaw Falling Into Place - Radiohead.mp3",
+        "data/songs/No Surprises - Radiohead.mp3",
+        "data/songs/Weird Fishes : Arpeggi - Radiohead.mp3",
+        "data/songs/And I Love Her - The Beatles.mp3"
+    ]
+}
